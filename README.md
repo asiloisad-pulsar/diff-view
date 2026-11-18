@@ -2,6 +2,9 @@
 
 A split pane diff tool. Compare files side-by-side with synchronized scrolling, soft-wrap support, git integration, and context menus.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [diff-view](https://github.com/lumine-code/diff-view).
+
 ![view](https://github.com/asiloisad-pulsar/diff-view/blob/master/assets/view.png?raw=true)
 
 Fork of [split-diff](https://github.com/mupchrch/split-diff).
